@@ -1,0 +1,25 @@
+📌 EXERCÍCIO 02
+
+❓ Enunciado:
+Crie um algoritmo (em linguagem natural) para descrever sua rotina matinal desde a hora que acorda até começar a estudar.
+
+📝 Resposta:
+
+1. Acordar as 8:00
+2. Pegar fralda e lenço
+3. Trocar minha filha
+4. Levantar da cama 
+5. Tirar minha filha da cama
+6. Arrumar a cama
+7. Sair do quarto
+8. Ir até a cozinha
+9. Preparar café da manhã
+10. Dar café da manhã para a minha filha
+11. Tomar café da manhã
+12. Colocar minha filha para brincar    
+13. Limpar as coisas do café
+14. Passar aspirador na casa
+15. Adiantar algumas coisas do almoço
+17. Brincar um pouco com a minha filha
+18. Fazer minha filha tirar a primeira soneca do dia
+20. Estudar durante a soneca dela

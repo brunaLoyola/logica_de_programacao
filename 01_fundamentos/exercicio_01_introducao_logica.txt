@@ -1,0 +1,12 @@
+📌 EXERCÍCIO 01
+
+❓ Enunciado:
+Descreva com suas palavras o que é lógica de programação.  
+Crie uma analogia com uma atividade cotidiana.
+
+📝 Resposta:
+Lógica de programação é a capacidade de pensar na resolução de um problema de forma sequencial e organizada utilizando códigos.
+
+🔁 Analogias:
+- Fazer um bolo (seguir uma receita passo a passo)
+- Montar um móvel com manual

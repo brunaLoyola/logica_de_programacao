@@ -1,0 +1,19 @@
+📌 EXERCÍCIO 03
+
+❓ Enunciado:
+Transforme a seguinte frase de linguagem natural para linguagem formal:
+"Se estiver com fome, vá até a geladeira e pegue algo para comer."
+
+📝 Resposta:
+
+1. Verifique se está com fome
+2. Levante
+3. Caminhe até a geladeira
+4. Abra a porta da geladeira.
+5. Observe as opções disponíveis na geladeira
+6. Escolha algo para comer
+7. Pegue o alimento escolhido
+8. Feche a porta da geladeira
+
+
+
